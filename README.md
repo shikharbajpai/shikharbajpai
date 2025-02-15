@@ -44,7 +44,7 @@ A full-stack cloud-based note-taking app with authentication and user management
 
 An interactive image collection platform using NASA's API to explore space images.
 
-![StarVault Preview](https://source.unsplash.com/400x250/?space,stars)
+![StarVault Preview](https://images-assets.nasa.gov/image/PIA12235/PIA12235~medium.jpg)
 
 ---
 
