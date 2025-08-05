@@ -33,7 +33,7 @@ Passionate about building high-performance web applications and optimizing code 
 ## 🚀 Projects
 
 ### 🌟 iNotebook - Cloud-Based Note Taking App
-🔗 [Live Project](https://inotebook-frontend-shikhar-bajpai.vercel.app/) | 📌 [GitHub Repository](https://github.com/shikharbajpai/inotebook)
+🔗 [Live Project](https://inotebook-frontend-shikhar-bajpai.vercel.app/) | 📌 [GitHub Repository](https://github.com/shikharbajpai/inotebook-frontend)
 
 A full-stack cloud-based note-taking app with authentication and user management.
 
